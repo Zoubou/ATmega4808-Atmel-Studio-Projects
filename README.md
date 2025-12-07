@@ -9,10 +9,8 @@ Each project demonstrates different peripherals, timers, interrupts, and real‑
 ```
 Atmel-Studio-5-mini-project-on-ATmega4808-microcontroller/
 │
-├── Fan_simulator/
-│   ├── Fan_simulator.atsln
-│   ├── main.c
-│   ├── compiled HEX / ELF files
+├── Fan_simulator/                # Fan simulator
+│   └── main.c
 │
 ├── GccApplication1/              # EA1 assignment
 │   └── main.c
